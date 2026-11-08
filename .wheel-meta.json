@@ -1,0 +1,22 @@
+{
+  "wheel_id": 845,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-109",
+  "project": "earthmoving-services-adelaide-local-options-compared-0057b455a7",
+  "parent_t1_ref": "simplyearthworks-154",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide local options compared",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-local-options-compared-0057b455a7/",
+  "tier": "T2",
+  "writeback_nonce": "bc4f93420f2592ff",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-services-adelaide-red-flags-7ef0be575a81e78cbcb7827/",
+      "anchor": "this earthmoving services adelaide red flags resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
